@@ -1,2 +1,2 @@
 # Validator---ISMIRRI21
-Code of the validator developed during the ISMIRRI21 project
+Code of the validator developed by Peio during the ISMIRRI21 project.
